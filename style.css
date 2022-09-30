@@ -1,0 +1,53 @@
+/* 
+    Heading tags <h1> should have 
+    color: #DA0090
+    background color: white
+    Padding: 10px
+    Border: 1px solid #83DE36;
+    radius: 5px
+*/
+h1 {
+    color: #Da0090;
+    background-color: orange;
+    padding: 10px;
+    border: 1px solid #83DE36;
+    border-radius: 5px;
+    text-align: center;
+} 
+
+/* 
+    Paragraph <p> should have
+    margin-top: 5px
+    padding: 10px
+    radius: 5px 
+*/
+p {
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+h2 {
+    margin: 5px;
+    border: 5px;
+    text-align: center;
+}
+/* 
+    Links <a> should have
+    text-decoration: none
+    background-color: blue
+    padding: 5px
+    color: white
+*/
+a {
+    text-decoration: none;
+    background-color: lightblue;
+    padding: 5px;
+    color: red;
+}
+
+h3 {
+    text-decoration: none;
+    margin-top: 5px;
+    text-align: center;
+    border: 5px;
+}
